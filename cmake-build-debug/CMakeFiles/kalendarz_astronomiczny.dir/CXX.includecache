@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/Date.h
+iostream
+-
+string
+-
+ctime
+-
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/EventManager.cpp
+conio.h
+-
+EventManager.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/EventManager.h
+fstream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/EventManager.h
+List.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/List.h
+Date.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/Date.h
+map
+-
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/InputManager.h
+List.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/List.h
+string
+-
+fstream
+-
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/List.h
+ListElement.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/ListElement.h
+iostream
+-
+algorithm
+-
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/ListElement.h
+memory
+-
+
+C:/Users/Michin/Desktop/kalendarz astronomiczny/main.cpp
+string
+-
+iostream
+-
+Windows.h
+-
+Date.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/Date.h
+List.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/List.h
+InputManager.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/InputManager.h
+EventManager.h
+C:/Users/Michin/Desktop/kalendarz astronomiczny/EventManager.h
+
